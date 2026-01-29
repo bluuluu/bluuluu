@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://placehold.co/280x280/0f172a/ffffff?text=Your+Photo" alt="Profile avatar" width="280" height="280" style="border-radius: 50%; object-fit: cover;" />
   <h1>Hi, I'm Bryan Luu</h1>
   <p><em>Builder, problem‑solver, always learning.</em></p>
 </div>
